@@ -11753,10 +11753,6 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   border-radius: 2px;
 }
 
-.theme-progress-bar-dark {
-  background-color: #434E5E;
-}
-
 .resume-wrapper {
   padding-top: 30px;
   padding-bottom: 60px;
@@ -11764,12 +11760,6 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 
 .resume-wrapper-inner {
   max-width: 1000px;
-}
-
-.resume-header {
-  background: #434E5E;
-  color: rgba(255, 255, 255, 0.9);
-  height: 220px;
 }
 
 .resume-header .picture {
@@ -11806,26 +11796,6 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   border-radius: 0.125rem;
   background: white;
   color: #434E5E;
-}
-
-.resume-section-title {
-  font-size: 1.25rem;
-  position: relative;
-  color: #434E5E;
-}
-
-.resume-section-title:after {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  height: 1.5px;
-  background: #8d9aad;
-}
-
-.resume-section-content {
-  color: #58677c;
 }
 
 .resume-timeline {
